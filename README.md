@@ -1,5 +1,5 @@
 # Small projects
-
+ I worked on these projects during the early stages of my learning experience, primarily focusing on beginner-level tasks.
 
 | no  | Project name | Tech stack | Demo | Code |
 |:---|  :---     | :--- |:--- | :--- |
